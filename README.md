@@ -28,9 +28,11 @@ Title|Type|Contributor|Quote
 [Contest Tools and Workflow](https://www.codingame.com/playgrounds/53705/contest-tools-and-workflow)|Guide|eulerscheZahl|"Reproducing a bug against a random opponent can be annoying. Even when the behaviour is perfectly reproducable online, it can be hard to debug in the offline IDE, when a match history is needed. Some games like Ocean of Code deal with fog of war, so copying the referee input of a single turn isn't enough to reproduce the same situtation offline."
 [CGStats](http://cgstats.magusgeek.com/app/)|Tool|Magus|
 [CGEnhancer](https://github.com/Azkellas/cgenhancer)|Tool|Azkellas|"The goal of this script is to make the user's life easier, especially during multi/contests. It comes with a bunch of features (see below for an exhaustive or-so list). The script currently works on chrome, chromium and firefox. It might work on chromium-based browser, such as opera and safari, but was not tested."
+[CGLocal](https://github.com/jmerle/cg-local-app)|Tool|Jasperr|"This application should be used together with cg-local-ext. The application watches the selected file and sends the source code to the browser extension when the file is changed. It also makes it easy to configure the CG Local's settings."
 [Designing the Perfect AI in a Coding Contest](https://www.codingame.com/blog/design-ai-contest/)|Article|Icebox|"The key differences that separate the coders at the top of the ladder are their approaches, different scoring strategies or their completely different learning models."
 [Using BitStreams in Legends of Code & Magic](https://www.youtube.com/watch?v=BU9b445CpaM)|Video|reCurse|
-
+[A Look Back at the Greatest Event on CodinGame](https://www.codingame.com/blog/spring-challenge-2020/)|Article|Thibaud|“Thanks to CG for this fun challenge – and thanks for bringing me and my old friend together again – it felt like we were 18 again bouncing ideas off each other and discussing theories together.” 
+[The Challenge of Designing a Game for a Whole Community](https://www.codingame.com/blog/the-challenge-of-designing-a-game-for-a-whole-community/)|Article|Magus|"The CodinGame architecture forces the amount of data transiting between the referee and the view to be the smallest possible. If there is too much data, not only do you impact the bandwidth of CodinGame, but the games load up very slowly. Not to mention the space used on their servers."
 
 # Games
 [SameGame](https://gamegix.com/samegame/game) web browser game
