@@ -10,6 +10,9 @@ This is an experiment to see if i can use a github repo to store my bookmarks fr
 [Selfless Heroes](https://play.selflessheroes.fr/) drag and drop programming puzzles
 
 # Learn Programming
+## Vaporware
+[Openshift Playgrounds](https://learn.openshift.com/playgrounds/openshift45/)
+
 ## CodingGame resources
 Title|Type|Contributor|Quote
 -----|----|-----------|-----
