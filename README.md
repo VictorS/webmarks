@@ -3,6 +3,10 @@ This is an experiment to see if i can use a github repo to store my bookmarks fr
 
 # Programming
 [Cyber Dojo](https://cyber-dojo.org/) browser IDE and tests runner
+[Hacker Rank](https://www.hackerrank.com/) browser programming challanges
+[Leet Code](https://leetcode.com/) browser programming challanges
+
+[Java tricks](java_tricks.md)
 
 # Programming Games
 [CodinGame](https://www.codingame.com) programming puzzles with web based IDE
@@ -10,6 +14,8 @@ This is an experiment to see if i can use a github repo to store my bookmarks fr
 [Selfless Heroes](https://play.selflessheroes.fr/) drag and drop programming puzzles
 
 # Learn Programming
+[Data Camp](https://app.datacamp.com/learn) online programming courses with excersises focused on data science
+
 ## Vaporware
 [Openshift Playgrounds](https://learn.openshift.com/playgrounds/openshift45/)
 
