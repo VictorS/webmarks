@@ -7,6 +7,12 @@ int n = scanner.nextInt();
 String myString = scanner.next();
 scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 String s = scan.nextLine();
+
+while (sc.hasNext()) {
+    String s = sc.nextLine();
+    System.out.println(s);
+}
+
 scanner.close();
 ```
 
